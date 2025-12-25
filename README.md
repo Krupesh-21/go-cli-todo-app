@@ -92,10 +92,10 @@ go-cli-todo-app-macos # macOS (arm64)
 
 ## 🚀 Installation
 
-1. **Pre-built binary**: Download from [Releases](https://github.com/username/go-cli-todo-app/releases)
+1. **Pre-built binary**: Download from [Releases](https://github.com/Krupesh-21/go-cli-todo-app/releases)
 2. **From source**:
    ```
-   git clone https://github.com/username/go-cli-todo-app.git
+   git clone https://github.com/Krupesh-21/go-cli-todo-app.git
    cd go-cli-todo-app
    make build
    sudo mv go-cli-todo-app /usr/local/bin/todo
