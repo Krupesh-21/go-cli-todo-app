@@ -1,6 +1,6 @@
-# Makefile for cli-todo-app - Cross-platform Go CLI Todo App
+# Makefile for go-cli-todo-app - Cross-platform Go CLI Todo App
 
-BINARY_NAME=cli-todo-app
+BINARY_NAME=go-cli-todo-app
 SRC_FILES=$(wildcard *.go)
 
 .PHONY: all build run clean windows linux darwin help examples
